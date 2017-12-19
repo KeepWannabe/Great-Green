@@ -1,0 +1,30 @@
+# minimal theme for SLiM
+# njonaitis@gmail.com
+
+msg_color               #00ffed
+msg_font                fixed:size=13:dpi=75
+msg_x                   50%
+msg_y                   40%
+msg_shadow_xoffset 	1
+msg_shadow_yoffset 	1
+
+background_style        scretch
+background_color        #fff
+
+input_panel_x           50%
+input_panel_y           57%
+input_name_x            210
+input_name_y            90
+input_font          	fixed:size=13:dpi=75
+input_fgcolor           white
+input_color		white
+
+username_font          	fixed:size=13:dpi=75
+username_color        	green
+username_x              130
+username_y              90
+password_x              130
+password_y              90
+
+username_msg            username:
+password_msg            password:
